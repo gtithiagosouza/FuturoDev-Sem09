@@ -1,3 +1,8 @@
+Repositorio do curso FUTURO DEV.
+
+Com os exercicios da semana 09 
+
+
 # Semana 09 - Introdução ao Sequelize
 
 ## Rodar o repositório:
